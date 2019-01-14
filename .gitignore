@@ -9,3 +9,5 @@ npm-debug.*
 .DS_Store
 
 Build a React Native App with Google Cloud Vision API.md
+
+config/environment.js
